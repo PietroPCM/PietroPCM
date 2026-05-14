@@ -1,52 +1,61 @@
 # Pietro Catafesta Montezano
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Full%20Stack%20Developer%20em%20Formacao&fontColor=ffffff&fontSize=34" alt="Full Stack Developer em Formacao" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=190&section=header&text=Full%20Stack%20Developer&fontColor=ffffff&fontSize=42&desc=Software%20Engineering%20%7C%20Web%20Development%20%7C%20Automation&descAlignY=62&descSize=16" alt="Full Stack Developer" />
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvedor Full Stack em formacao, com base em HTML, CSS, JavaScript e Python.
+Desenvolvedor Full Stack e estudante de Engenharia de Software, focado em construir aplicacoes web, interfaces responsivas, automacoes e projetos com integracao de ferramentas modernas.
 
-Tenho experiencia em suporte tecnico, atendimento a usuarios e resolucao de problemas, alem de projetos praticos envolvendo sites responsivos, automacao de processos, integracao com ferramentas de IA e deploy na Vercel.
-
-Atualmente estou evoluindo meus conhecimentos em desenvolvimento Back-End com Python, JavaScript para interfaces web e boas praticas de versionamento com Git e GitHub.
+Tenho experiencia em suporte tecnico, resolucao de problemas, atendimento a usuarios e desenvolvimento de projetos praticos publicados no GitHub e na Vercel. Meu foco e evoluir como programador, criando solucoes completas que unem front-end, back-end, organizacao de codigo e deploy.
 
 ---
 
-## Tecnologias & Ferramentas
+## Stack principal
 
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
 ![N8N](https://img.shields.io/badge/N8N-111827?style=for-the-badge&logo=n8n)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai)
 
 ---
 
 ## Projetos em destaque
 
-### Navalha Prime Barber
+### Sites catalogo para negocios locais
 
-Site catalogo premium para barbearia, com foco em apresentacao de servicos, responsividade e agendamento pelo WhatsApp.
+Projetos front-end responsivos criados para nichos diferentes, com foco em apresentacao comercial, navegacao simples e conversao.
 
-- Deploy: https://catalago-site-barbearia.vercel.app
-- Repositorio: https://github.com/PietroPCM/Catalago-Site-barbearia
+| Projeto | Nicho | Repositorio |
+|---|---|---|
+| Navalha Prime Barber | Barbearia | [Catalago-Site-barbearia](https://github.com/PietroPCM/Catalago-Site-barbearia) |
+| Catalogo Restaurante | Restaurante | [Catalago-site-Restaurante](https://github.com/PietroPCM/Catalago-site-Restaurante) |
+| Catalogo Roupa | Moda / Loja de roupas | [Catalago-site-Roupa](https://github.com/PietroPCM/Catalago-site-Roupa) |
+
+Deploy publicado:
+
+- Navalha Prime Barber: https://catalago-site-barbearia.vercel.app
 
 ---
 
-## Experiencias e conquistas
+## Experiencia e conquistas
 
 - Analista de Suporte Tecnico na Mx-Solucoes
 - Estudante de Engenharia de Software no Centro Universitario FAG
 - 1 lugar no Inovathon do Centro FAG
 - Mencao honrosa no Startup Weekend Techstars
-- Participacao no Hackathon Hub One com uso de OpenAI e N8N
+- Participacao no Hackathon Hub One com OpenAI e N8N
 
 ---
 
-## Estatisticas
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PietroPCM&show_icons=true&theme=tokyonight)
 
@@ -62,4 +71,4 @@ Site catalogo premium para barbearia, com foco em apresentacao de servicos, resp
 
 ---
 
-Desenvolvendo interfaces, automacoes e solucoes web com foco em evolucao constante.
+Construindo projetos web, automacoes e solucoes Full Stack com foco em codigo, produto e evolucao constante.
