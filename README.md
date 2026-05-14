@@ -33,15 +33,11 @@ Tenho experiencia em suporte tecnico, resolucao de problemas, atendimento a usua
 
 Projetos front-end responsivos criados para nichos diferentes, com foco em apresentacao comercial, navegacao simples e conversao.
 
-| Projeto | Nicho | Repositorio |
-|---|---|---|
-| Navalha Prime Barber | Barbearia | [Catalago-Site-barbearia](https://github.com/PietroPCM/Catalago-Site-barbearia) |
-| Catalogo Restaurante | Restaurante | [Catalago-site-Restaurante](https://github.com/PietroPCM/Catalago-site-Restaurante) |
-| Catalogo Roupa | Moda / Loja de roupas | [Catalago-site-Roupa](https://github.com/PietroPCM/Catalago-site-Roupa) |
-
-Deploy publicado:
-
-- Navalha Prime Barber: https://catalago-site-barbearia.vercel.app
+| Projeto | Nicho | Deploy | Repositorio |
+|---|---|---|---|
+| Navalha Prime Barber | Barbearia | [Ver site](https://catalago-site-barbearia.vercel.app) | [Codigo](https://github.com/PietroPCM/Catalago-Site-barbearia) |
+| Catalogo Restaurante | Restaurante | [Ver site](https://catalago-site-restaurante.vercel.app/) | [Codigo](https://github.com/PietroPCM/Catalago-site-Restaurante) |
+| Catalogo Roupa | Moda / Loja de roupas | [Ver site](https://catalago-site-roupa.vercel.app/) | [Codigo](https://github.com/PietroPCM/Catalago-site-Roupa) |
 
 ---
 
@@ -52,14 +48,6 @@ Deploy publicado:
 - 1 lugar no Inovathon do Centro FAG
 - Mencao honrosa no Startup Weekend Techstars
 - Participacao no Hackathon Hub One com OpenAI e N8N
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PietroPCM&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroPCM&layout=compact&theme=tokyonight)
 
 ---
 
